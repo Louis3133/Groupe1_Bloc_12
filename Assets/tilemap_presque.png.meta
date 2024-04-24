@@ -1,0 +1,2732 @@
+fileFormatVersion: 2
+guid: ed1c1fcca1bb34b4d9b264960b4cc0b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilemap_presque_0
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1562
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c7f35e6fa554ec28c9d471ea623811
+      internalID: 461237376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_1
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1562
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9983428baa8404664856fa931bd6b77e
+      internalID: 1940705226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_2
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1562
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba79b2cc43b84a0dbf5f3f44fee6120
+      internalID: -1951167018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1490
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab080253c64484e9b646e3ca0a8cd5
+      internalID: 331051876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_4
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1490
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5fc80fddcd4aebbca70d3d4b3aea7
+      internalID: 1683536077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_5
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1490
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c30efd1dfd7749c985fe2f7917a3e0f
+      internalID: 570816735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1490
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a23eb349244329a584ddc63c31a6f
+      internalID: 51184726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_7
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1490
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a9c1cab83b4b04959a2cccf8d2884
+      internalID: -902361096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1346
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec80af6d995047aeb20636d5f2be220
+      internalID: -2049332591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1346
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20b89465070d457ba60ba8fbad34214
+      internalID: 1415840416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1346
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81284d01cda1945eb9c8328028fb1591
+      internalID: -1471401279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1346
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66168648e5fd247f2879d029c8f08112
+      internalID: -276827130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1346
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9a8c54b13df4f2a9775fe4835c2138
+      internalID: 1423702589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1346
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06851ac4efff4e4783304a510e20861
+      internalID: 858080663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_14
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1346
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df85234967a5240caaaf4fb6b2775d85
+      internalID: 972973598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1274
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a0101a35e14bf7b4b942355d8a02a
+      internalID: -1070921141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1274
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14a3c4e910f54c7cb61d41b0835a876
+      internalID: -1758300829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_17
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1274
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbeda30cf10945108ae73b4db61e0f3
+      internalID: 314513297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_18
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1274
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fc7892726004e8b8f70a73b7d562f5
+      internalID: -1688032705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1202
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaca1519b9fa49b2a9c22cd61d30aa4
+      internalID: 1357872611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1202
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e78e8ee898949ac9315e9815f242e2
+      internalID: 585836005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1202
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669f192ee4bcc4c3d9fac92d790d2ba8
+      internalID: -1725519794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1202
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250bb9bb59adc402797b4be679171b32
+      internalID: 1111090627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1202
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505ba6f7df1c043da89b085df330e165
+      internalID: -1033449999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_24
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1202
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd2ea3f801c41c6b18a7ea27aa2c1e
+      internalID: -1478447840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1202
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d162feb0dd8d4645920918be5c96e03
+      internalID: 1610257170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1202
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc72b7eab15a44e43a9b9e74755d3589
+      internalID: -1534796017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_27
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1202
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc80a8ceb11947ccbd9291fec94b7b6
+      internalID: -302448695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_28
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1202
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90679243389f41acbbddf859e55a7fc
+      internalID: -371558651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_29
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1130
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc9051b5cc50482698fe5f89ab9e20a
+      internalID: 1577033645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_30
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1130
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea4761ec4b1145e5b4709152c90a3ab
+      internalID: -1054690737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1058
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e668d4df863494d298d9832614838725
+      internalID: -647985822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1058
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c837dfca11644bd398bd385c502ef59
+      internalID: 737602138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1058
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c3078c874b4614822f4d681e9d9fa
+      internalID: 1600765729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1058
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4151412b401354e29aaf57d71e50236c
+      internalID: 1643255028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_35
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1058
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e955ad8f370f6441f8f98ba86545edc9
+      internalID: 1455804848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1058
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc529f3dc236e4364a858181f19400ad
+      internalID: -879878652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_37
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1058
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5060d4aa0e2448cfbcf8533771d163f
+      internalID: 737741740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 914
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b347fc7941b6140398e9bf9bdb6357c5
+      internalID: 546119571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 914
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c257d201355bf48d1b5613d0164d7b72
+      internalID: -1104985333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_40
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 914
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7922f5f0cfe894ade98f5983a9739d5b
+      internalID: 702845291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_41
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 914
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c967803b4604938b2a1a3a565d04ba
+      internalID: -1179809363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_42
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 914
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c4931df1e44f718d855c305685f19
+      internalID: 1981051648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_43
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 914
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ea6b844cdbc48de8a5c12753819a2b
+      internalID: 272939772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_44
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 914
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c9dc7dc41ba46878ad399cde093fca
+      internalID: 689475937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_45
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 914
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96461bd3fb2994d26934275639e20842
+      internalID: -2099783689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6977aef3e204f75a0ede96295c78d1
+      internalID: -2021583093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee71c673f7214402da47d4f365cb4aca
+      internalID: -338539954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1118deb1e630842638382e7c4ea48310
+      internalID: 942952288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ee3b2f8c2dc4518ba89ab34d00f6f6
+      internalID: -1940416006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_50
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fe436089e5640e7ab61b0c37f1e242
+      internalID: -1779842028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839fc05ebc844b358f24c24e531a2e7
+      internalID: 959894937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_52
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46e396f3551e454180d627e62e14493
+      internalID: -1746359428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa131c8dd5034b0f80e47394e805610
+      internalID: -220702351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_54
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f766ae610334acfa678ad961cdbb4c
+      internalID: -1956416844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_55
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b736516b07a4dca8cdec7aa6b4071b
+      internalID: -1444761690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_56
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c26f0d7bf484239bf3bfa8ae33f8f6
+      internalID: -1970527546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_57
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 770
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd80ecc9b3acf4da49c749d479a0f90e
+      internalID: -1252458204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 698
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a74ee725efa54266a261dd1f156aefd
+      internalID: 1007140490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 626
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e435aae22416478dbcc248c87c60c55
+      internalID: 1754970708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 626
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89080184d79ec4d948a209696a27eeed
+      internalID: -9468313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_61
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 626
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d39f1c15a2a4e3da73b3da489e020a
+      internalID: 518372628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_62
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 626
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deea7fa7eddb4190b3ae162794abdda
+      internalID: -90399152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_63
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 626
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c271ea21022a4008ad05825d65bb98e
+      internalID: -527999581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_64
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 626
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b176f9824bf54bdbba85d8dd8aeb8ad
+      internalID: -383674630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_65
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 626
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8f1f6c3cd424bc69e75547ff4c7efb
+      internalID: -741169968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_66
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 626
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1eabfe888a6402b82f023221634491
+      internalID: -883883328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf50861cc3c254dee8fcf8893bb39266
+      internalID: 1705537318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be607d1665e2d4334b4fd5b68f18020f
+      internalID: -1497379355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_69
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf25a618a1fe54bc5a3b2090d6e2908c
+      internalID: 1408196505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a9f7024321149d6b80971d0a60e210
+      internalID: -972519083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_71
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf5b632067e44fcb65d1ae0075ae19
+      internalID: -1254524383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_72
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f9e9b5a8bca4eef9e0907fcf8bd720
+      internalID: 1718685445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_73
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50883212098654027a5d44ae116681f8
+      internalID: 576840931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_74
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61831b0ab0364838967c1e61a3f1866
+      internalID: -1974624011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_75
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff12dd6e378b4fe98aa5051771a14c9
+      internalID: 1794267159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_76
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcbd33d348204c22a6390a9062acea8
+      internalID: 1644911120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_77
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f4bd1779d924447a5e984f6951fdbd
+      internalID: 1089436601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_78
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 482
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4e903b99899439687ff9861a59d161
+      internalID: -653257845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac15df42dd843459fa909d01d5afcb
+      internalID: 1608926568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a3e17c67ac8460ebf0d4f5068f987a
+      internalID: 1953427942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a937b18ee774a3a98332e83d3e7bf1
+      internalID: -296991713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a2e871d70934276bb98ba4629a547f
+      internalID: 71700971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_83
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23532759082fc4558a55b77da612cd52
+      internalID: -1225685432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_84
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce068cdab8a340a887619f36d887268
+      internalID: -577508131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_85
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213a75c78e7774f5c91537eb91d7c31f
+      internalID: 309571031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_86
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7858725dfb7743b9a2ad5d754445f13
+      internalID: 526048854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_87
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039bd910ca894dd38bdee9a9375af57
+      internalID: -863989319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_88
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a69a2d108c3144119748b4c325fbadf
+      internalID: -736378847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_89
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 338
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a189fab2b7dd3443e88fcfcbe3104827
+      internalID: -1552627487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 266
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa535789ae83d4c898d89f4498619bca
+      internalID: -1211909212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_91
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 266
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ab7a123ce81497aba395446b0b246b
+      internalID: 1113740557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 266
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e7a023ecae493e88348db3a4f1bdf
+      internalID: -1228208242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 266
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79f1e1a715f64fbc99ef5bf7b948899
+      internalID: 844533530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_94
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 266
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652df6f9f0bd942c59e31af1edd22438
+      internalID: 1310388918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_95
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 266
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410009a4acf084aa69d734b118809e88
+      internalID: 1994796513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_96
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 266
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e07522201f8402493fb574afe1f444
+      internalID: -732874414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_97
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 266
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba31c5e50eb6d45bfb1cb449e6d6ad35
+      internalID: 688721378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_98
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 266
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38e024aeacb456a9917be6e0939588
+      internalID: -118915850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 194
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9926013c504c4df0940f0207d422d70
+      internalID: 728709305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_100
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 194
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5966744645e6e4e9f960be3ab5e6dbd5
+      internalID: -137339043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 194
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe45531b459f46b4ae5d22108949e47
+      internalID: -1141432566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_102
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 194
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc779dc21de14f54969137a3bb28cf6
+      internalID: -54295313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_103
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 194
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53ef4251cfb4bb4b39d6cb18968883
+      internalID: -879582988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_104
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 194
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be27208b49354f07b9c401cf8e5f89c
+      internalID: 470652898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_105
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 194
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3199949fb01f24d1c8ef2d82600d9101
+      internalID: 1166642886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_106
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 194
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d9ad768845a471995f332a22104141
+      internalID: 304462232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_107
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 194
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd13a0ae3f2e44cce922bef7dc3a4811
+      internalID: 923399863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_108
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 194
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a1e17f4ef740ed8c0b215afea29bf
+      internalID: -114885087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 122
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59129cf3fbc8c44f797c65e8a28adbb4
+      internalID: 333436647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_110
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 122
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105368260486d4b8b9f40634e43923fc
+      internalID: 1653252996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 122
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba48e48f3d649028702cbaa625a7fb
+      internalID: -891966324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 122
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9fe83c9a0664eb5b586b2a09d14fdf
+      internalID: 2122503447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_113
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 122
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9689f3c8816422e8493de43625ac80
+      internalID: 2038020924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_114
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 122
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609150be604e64d889ca2034ae523936
+      internalID: 1321846426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_115
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 122
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec37b52b3b054f3c956cb98828cd752
+      internalID: 1120172484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_116
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 122
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1339a1bae61f4464588c1e9adc877f11
+      internalID: 425116167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_117
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 50
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1832d92261d2d4694bb6a945bd191e6f
+      internalID: 765402164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_presque_118
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 50
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f26b6eba7b0d430ea8544d1389ec84b
+      internalID: 1051016622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tilemap_presque_0: 461237376
+      tilemap_presque_1: 1940705226
+      tilemap_presque_10: -1471401279
+      tilemap_presque_100: -137339043
+      tilemap_presque_101: -1141432566
+      tilemap_presque_102: -54295313
+      tilemap_presque_103: -879582988
+      tilemap_presque_104: 470652898
+      tilemap_presque_105: 1166642886
+      tilemap_presque_106: 304462232
+      tilemap_presque_107: 923399863
+      tilemap_presque_108: -114885087
+      tilemap_presque_109: 333436647
+      tilemap_presque_11: -276827130
+      tilemap_presque_110: 1653252996
+      tilemap_presque_111: -891966324
+      tilemap_presque_112: 2122503447
+      tilemap_presque_113: 2038020924
+      tilemap_presque_114: 1321846426
+      tilemap_presque_115: 1120172484
+      tilemap_presque_116: 425116167
+      tilemap_presque_117: 765402164
+      tilemap_presque_118: 1051016622
+      tilemap_presque_12: 1423702589
+      tilemap_presque_13: 858080663
+      tilemap_presque_14: 972973598
+      tilemap_presque_15: -1070921141
+      tilemap_presque_16: -1758300829
+      tilemap_presque_17: 314513297
+      tilemap_presque_18: -1688032705
+      tilemap_presque_19: 1357872611
+      tilemap_presque_2: -1951167018
+      tilemap_presque_20: 585836005
+      tilemap_presque_21: -1725519794
+      tilemap_presque_22: 1111090627
+      tilemap_presque_23: -1033449999
+      tilemap_presque_24: -1478447840
+      tilemap_presque_25: 1610257170
+      tilemap_presque_26: -1534796017
+      tilemap_presque_27: -302448695
+      tilemap_presque_28: -371558651
+      tilemap_presque_29: 1577033645
+      tilemap_presque_3: 331051876
+      tilemap_presque_30: -1054690737
+      tilemap_presque_31: -647985822
+      tilemap_presque_32: 737602138
+      tilemap_presque_33: 1600765729
+      tilemap_presque_34: 1643255028
+      tilemap_presque_35: 1455804848
+      tilemap_presque_36: -879878652
+      tilemap_presque_37: 737741740
+      tilemap_presque_38: 546119571
+      tilemap_presque_39: -1104985333
+      tilemap_presque_4: 1683536077
+      tilemap_presque_40: 702845291
+      tilemap_presque_41: -1179809363
+      tilemap_presque_42: 1981051648
+      tilemap_presque_43: 272939772
+      tilemap_presque_44: 689475937
+      tilemap_presque_45: -2099783689
+      tilemap_presque_46: -2021583093
+      tilemap_presque_47: -338539954
+      tilemap_presque_48: 942952288
+      tilemap_presque_49: -1940416006
+      tilemap_presque_5: 570816735
+      tilemap_presque_50: -1779842028
+      tilemap_presque_51: 959894937
+      tilemap_presque_52: -1746359428
+      tilemap_presque_53: -220702351
+      tilemap_presque_54: -1956416844
+      tilemap_presque_55: -1444761690
+      tilemap_presque_56: -1970527546
+      tilemap_presque_57: -1252458204
+      tilemap_presque_58: 1007140490
+      tilemap_presque_59: 1754970708
+      tilemap_presque_6: 51184726
+      tilemap_presque_60: -9468313
+      tilemap_presque_61: 518372628
+      tilemap_presque_62: -90399152
+      tilemap_presque_63: -527999581
+      tilemap_presque_64: -383674630
+      tilemap_presque_65: -741169968
+      tilemap_presque_66: -883883328
+      tilemap_presque_67: 1705537318
+      tilemap_presque_68: -1497379355
+      tilemap_presque_69: 1408196505
+      tilemap_presque_7: -902361096
+      tilemap_presque_70: -972519083
+      tilemap_presque_71: -1254524383
+      tilemap_presque_72: 1718685445
+      tilemap_presque_73: 576840931
+      tilemap_presque_74: -1974624011
+      tilemap_presque_75: 1794267159
+      tilemap_presque_76: 1644911120
+      tilemap_presque_77: 1089436601
+      tilemap_presque_78: -653257845
+      tilemap_presque_79: 1608926568
+      tilemap_presque_8: -2049332591
+      tilemap_presque_80: 1953427942
+      tilemap_presque_81: -296991713
+      tilemap_presque_82: 71700971
+      tilemap_presque_83: -1225685432
+      tilemap_presque_84: -577508131
+      tilemap_presque_85: 309571031
+      tilemap_presque_86: 526048854
+      tilemap_presque_87: -863989319
+      tilemap_presque_88: -736378847
+      tilemap_presque_89: -1552627487
+      tilemap_presque_9: 1415840416
+      tilemap_presque_90: -1211909212
+      tilemap_presque_91: 1113740557
+      tilemap_presque_92: -1228208242
+      tilemap_presque_93: 844533530
+      tilemap_presque_94: 1310388918
+      tilemap_presque_95: 1994796513
+      tilemap_presque_96: -732874414
+      tilemap_presque_97: 688721378
+      tilemap_presque_98: -118915850
+      tilemap_presque_99: 728709305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
